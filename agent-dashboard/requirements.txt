@@ -1,0 +1,37 @@
+# AI Agent & Dashboard 프로젝트 의존성
+# Python 3.9+ 권장 (최신 Anaconda 기준)
+
+# 데이터 분석 및 머신러닝
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+xgboost>=2.0.3
+tensorflow>=2.16.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.20.0
+
+# Streamlit 관련
+streamlit>=1.32.0
+streamlit-chat>=0.1.1
+streamlit-option-menu>=0.3.12
+
+# OpenAI & LangChain
+openai>=1.14.0
+langchain>=0.1.13
+langchain-community>=0.0.29
+langchain-openai>=0.1.0
+python-dotenv>=1.0.1
+
+# XAI 라이브러리
+shap>=0.45.0
+lime>=0.2.0.1
+
+# 유틸리티
+joblib>=1.4.0
+Pillow>=10.3.0
+
+# 추가 권장 패키지
+ipykernel>=6.29.0
+jupyter>=1.0.0
+notebook>=7.1.0

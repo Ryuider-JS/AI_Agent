@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/emphimac/Library/CloudStorage/GoogleDrive-dambang0323@gmail.com/My Drive/Lecture Materials/FastCampus/B2B/IN PROGRESS/[S-OIL] AI 분석과정/실습교안/agent-dashboard/**)",
+      "Read(/Users/emphimac/Library/CloudStorage/GoogleDrive-dambang0323@gmail.com/My Drive/Lecture Materials/FastCampus/B2B/IN PROGRESS/[S-OIL] AI 분석과정/실습교안/agent-dashboard/**)",
+      "Read(/Users/emphimac/Library/CloudStorage/GoogleDrive-dambang0323@gmail.com/My Drive/Lecture Materials/FastCampus/B2B/IN PROGRESS/[S-OIL] AI 분석과정/실습교안/agent-dashboard/utils/**)",
+      "Read(/Users/emphimac/Library/CloudStorage/GoogleDrive-dambang0323@gmail.com/My Drive/Lecture Materials/FastCampus/B2B/IN PROGRESS/[S-OIL] AI 분석과정/실습교안/agent-dashboard/utils/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
